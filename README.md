@@ -1,4 +1,7 @@
 # Tarea_Busqueda_Uso_Dataset
+
+El link de mi repositorio es el siguiente https://github.com/paulaanb/Tarea_Busqueda_-Uso_Dataset
+
 # ¿De qué va esta tarea?
 Con el objetivo de poner en práctica alguno de los contenidos indicados en este módulo, se propone acceder al agregador Kaggle y realizar una búsqueda específica de acuerdo a la siguiente información:
 
