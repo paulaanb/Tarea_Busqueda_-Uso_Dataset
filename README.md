@@ -25,5 +25,7 @@ El enlace de este Dataset en Kaggle es https://www.kaggle.com/datasets/gpreda/al
 
 
 A continuacion se adjunta una imagen para la comprobacion.
+<img width="1280" alt="Captura de pantalla 2022-03-31 a las 9 48 40" src="https://user-images.githubusercontent.com/91721496/161005307-72568775-0148-44ce-aff0-3ff3b86abf7d.png">
 
+<img width="1280" alt="Captura de pantalla 2022-03-31 a las 9 49 11" src="https://user-images.githubusercontent.com/91721496/161005315-e2dd315f-8607-47a6-a112-2ff2e45345c3.png">
 
